@@ -1,0 +1,30 @@
+body {
+  background-color: #EAF6F6;
+}
+
+td{
+  text-align: center;
+}
+
+table{
+  text-align: center;
+}
+
+h1{
+  color: #66BFBF;
+  font-size: 200%;
+  text-align: center;
+}
+
+h3{
+  color: #66BFBF;
+  text-align: center;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: gray;
+  border-width: 5px;
+  width: 7%;
+}
